@@ -6,8 +6,8 @@ Deployment	TensorFlow Serving / Lite / JS	TorchServe / ONNX
 Preferred by	Industry, production teams	Researchers, academics
 GPU/TPU support	Excellent (Google TPU native)	Excellent (CUDA friendly)
 
-✅ Choose TensorFlow when deploying at scale or on mobile.
-✅ Choose PyTorch when doing rapid experimentation or research.
+ Choose TensorFlow when deploying at scale or on mobile.
+ Choose PyTorch when doing rapid experimentation or research.
 
 Q2. Use cases for Jupyter Notebooks
 
